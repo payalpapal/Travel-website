@@ -1,0 +1,26 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: canter;
+  align-items: center;
+  background-color: #003366;
+  padding: 2rem 3rem;
+  color: white;
+  position: relative;
+  text-align: center;
+  height: 15px;
+  margin-left:400px;
+}
+
+
+
+.highlight {
+  color: #ffcc00;
+}
+
